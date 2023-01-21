@@ -103,10 +103,10 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
-  -Clone this repository using the its url and git using the your terminal.
-  -cd into the project using the terminal
-  -RUN npm install to install the nodemofules
-  -Install live server and go live to start the project
+- **Clone this repository using the its url and git using the your terminal.**
+- **cd into the project using the terminal.**
+- **RUN npm install to install the nodemofulesal.**
+- **Install live server and go live to start the project.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
